@@ -1,0 +1,122 @@
+Full Aircraft Name,Country of Manufacture,Purpose,Image
+Lockheed Martin F-22 Raptor,USA,Military,F-22-Raptor
+Lockheed Martin F-35 Lightning II,USA,Military,F-35-Lightning-II
+Boeing F-15EX Eagle II,USA,Military,F-15EX-Eagle-II
+Boeing F/A-18E/F Super Hornet,USA,Military,Boeing-Super-Hornet
+General Dynamics F-16 Fighting Falcon,USA,Military,F-16-Fighting-Falcon
+Northrop Grumman B-2 Spirit,USA,Military,B-2-Spirit
+Northrop Grumman B-21 Raider,USA,Military,B-21-Raider
+Boeing B-52 Stratofortress,USA,Military,B-52-Stratofortress
+Boeing KC-46 Pegasus,USA,Military,Boeing-KC-46-Pegasus
+Boeing E-3 Sentry,USA,Military,Boeing_E3_Sentry
+Sukhoi Su-57,Russia,Military,Sukhoi-Su-57
+Sukhoi Su-35,Russia,Military,Sukhoi-Su-35
+Sukhoi Su-34,Russia,Military,Sukhoi-Su-34
+Sukhoi Su-30,Russia,Military,Sukhoi-Su-30
+Mikoyan MiG-35,Russia,Military,Mikoyan-MiG-35
+Mikoyan MiG-29M,Russia,Military,Mikoyan-MiG-29M
+Tupolev Tu-160,Russia,Military,Tupolev-Tu-160
+Tupolev Tu-95,Russia,Military,Tupolev-Tu-95
+Ilyushin Il-76,Russia,Military,Ilyushin-Il-76
+Beriev A-50,Russia,Military,Beriev-A-50
+Chengdu J-20,China,Military,Chengdu-J-20
+Shenyang J-16,China,Military,Shenyang-J-16
+Xian H-6,China,Military,Xian-H-6
+Xian Y-20,China,Military,Xian-Y-20
+Boeing AH-64 Apache,USA,Military,Boeing-AH-64-Apache
+Sikorsky UH-60 Black Hawk,USA,Military,Sikorsky-UH-60 Black-Hawk
+Sikorsky CH-53K King Stallion,USA,Military,Sikorsky-CH-53K-King-Stallion
+Bell V-22 Osprey,USA,Military,Bell-V-22-Osprey
+Bell AH-1Z Viper,USA,Military,Bell-AH-1Z-Viper
+Leonardo AW159 Wildcat,Italy/UK,Military,Leonardo-AW159-Wildcat
+Airbus H145M,Germany,Military,Airbus-H145M
+Kamov Ka-52,Russia,Military,Kamov-Ka-52
+Mil Mi-28,Russia,Military,Mil-Mi-28
+Mil Mi-26,Russia,Military,Mil-Mi-26
+Mil Mi-35,Russia,Military,Mil-Mi-35
+Harbin Z-20,China,Military,Harbin-Z-20
+Boeing 747-8,USA,Civilian,Boeing-747-8
+Boeing 777X,USA,Civilian,Boeing-777X
+Boeing 787 Dreamliner,USA,Civilian,Boeing-787-Dreamliner
+Airbus A350,France,Civilian,Airbus-A350
+Airbus A320neo,France,Civilian,Airbus-A320neo
+Embraer E195-E2,Brazil,Civilian,Embraer-E195-E2
+Bombardier Global 7500,Canada,Civilian,Bombardier-Global-7500
+Airbus H160,France,Civilian,Airbus-H160
+Bell 429,USA,Civilian,Bell-429
+Leonardo AW139,Italy,Civilian,Leonardo-AW139
+Sikorsky S-92,USA,Civilian,Sikorsky-S-92
+Comac C919,China,Civilian,Comac-C919
+Comac ARJ21,China,Civilian,Comac-ARJ21
+Ilyushin Il-96,Russia,Civilian,Ilyushin-Il-96
+Tupolev Tu-204,Russia,Civilian,Tupolev-Tu-204
+Dassault Rafale,France,Military,Dassault-Rafale
+Eurofighter Typhoon,UK/Germany/Italy/Spain,Military,Eurofighter-Typhoon
+Saab JAS 39 Gripen,Sweden,Military,Saab-JAS-39-Gripen
+HAL Tejas,India,Military,HAL-Tejas
+KAI KF-21 Boramae,South Korea,Military,KAI-KF-21-Boramae
+Mitsubishi F-2,Japan,Military,Mitsubishi-F-2
+HAL AMCA,India,Military,HAL-AMCA
+Northrop Grumman RQ-4 Global Hawk,USA,Military,Northrop-Grumman-RQ-4-Global-Hawk
+General Atomics MQ-9 Reaper,USA,Military,General-Atomics-MQ-9-Reaper
+Baykar Bayraktar TB2,Turkey,Military,Baykar-Bayraktar-TB2
+Baykar Bayraktar Akinci,Turkey,Military,Baykar-Bayraktar-Akinci
+Shahed 129,Iran,Military,Shahed-129
+Chengdu Wing Loong II,China,Military,Chengdu-Wing-Loong-II
+Dassault Falcon 7X (Military Variant),France,Military,Dassault-Falcon-7X
+Boeing P-8 Poseidon,USA,Military,Boeing-P-8-Poseidon
+Airbus A400M Atlas,Europe,Military,Airbus-A400M-Atlas
+C-130J Super Hercules,USA,Military,C-130J-Super-Hercules
+Kawasaki C-2,Japan,Military,Kawasaki-C-2
+Antonov An-178,Ukraine,Military,Antonov-An-178
+Beriev Be-200,Russia,Military,Beriev-Be-200
+Leonardo C-27J Spartan,Italy,Military,Leonardo-C-27J-Spartan
+Pilatus PC-21,Switzerland,Military,Pilatus-PC-21
+Beechcraft T-6 Texan II,USA,Military,Beechcraft-T-6-Texan-II
+KAI T-50 Golden Eagle,South Korea,Military,KAI-T-50-Golden-Eagle
+Boeing KC-135 Stratotanker,USA,Military,Boeing-KC-135-Stratotanker
+Xian Y-9,China,Military,Xian-Y-9
+Chengdu JF-17 Thunder,China/Pakistan,Military,Chengdu-JF-17-Thunder
+Leonardo M-346 Master,Italy,Military,Leonardo-M-346-Master
+Boeing 737 MAX,USA,Civilian,Boeing-737-MAX
+Boeing 767,USA,Civilian,Boeing-767
+Boeing 757,USA,Civilian,Boeing-757
+Boeing 717,USA,Civilian,Boeing-717
+Airbus A220,France/Germany,Civilian,Airbus-A220
+Airbus A321XLR,France/Germany,Civilian,Airbus-A321XLR
+Airbus A330neo,France/Germany,Civilian,Airbus-A330neo
+Bombardier Challenger 3500,Canada,Civilian,Bombardier-Challenger-3500
+Gulfstream G700,USA,Civilian,Gulfstream-G700
+Dassault Falcon 8X,France,Civilian,Dassault-Falcon-8X
+Cessna Citation Longitude,USA,Civilian,Cessna-Citation-Longitude
+Piper M600,USA,Civilian,Piper-M600
+HondaJet Elite II,Japan,Civilian,HondaJet-Elite-II
+Pilatus PC-12,Switzerland,Civilian,Pilatus-PC-12
+Viking Air Twin Otter,Canada,Civilian,Viking-Air-Twin-Otter
+Beechcraft King Air 360,USA,Civilian,Beechcraft-King-Air-360
+Dornier 328,Germany,Civilian,Dornier-328
+Antonov An-148,Ukraine,Civilian,Antonov-An-148
+Tupolev Tu-214,Russia,Civilian,Tupolev-Tu-214
+Leonardo AW609,Italy,Civilian,Leonardo-AW609
+Airbus H225,France,Civilian,Airbus-H225
+Sikorsky S-76,USA,Civilian,Sikorsky-S-76
+Bell 505,USA,Civilian,Bell-505
+Robinson R66,USA,Civilian,Robinson-R66
+MD Helicopters MD 530F,USA,Civilian,MD-Helicopters-MD-530F
+Enstrom 480B,USA,Civilian,Enstrom-480B
+Kamov Ka-226,Russia,Civilian,Kamov-Ka-226
+Harbin Z-9,China,Military,Harbin-Z-9
+Bell UH-1Y Venom,USA,Military,Bell-UH-1Y-Venom
+NHIndustries NH90,Europe,Military,NHIndustries-NH90
+AgustaWestland AW101,Italy,Military,AgustaWestland-AW101
+Kamov Ka-60,Russia,Military,Kamov-Ka-60
+Kamov Ka-31,Russia,Military,Kamov-Ka-31
+Harbin Z-19,China,Military,Harbin-Z-19
+Mil Mi-17,Russia,Military,Mil-Mi-17
+Eurocopter Tiger,Europe,Military,Eurocopter-Tiger
+KAI LAH (Light Armed Helicopter),South Korea,Military,KAI-LAH
+TAI T129 ATAK,Turkey,Military,TAI-T129-ATAK
+Lockheed SR-71 Blackbird,USA,Military,Lockheed-SR-71-Blackbird
+Harrier Jump Jet (AV-8B),UK / USA,Military,Harrier-Jump-Jet
+Concorde,UK / France,Civilian,Concorde
+MiG-29 Fulcrum,Russia,Military,MiG-29-Fulcrum
